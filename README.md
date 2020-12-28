@@ -1,2 +1,2 @@
-# CamelotClient
-CamelotClient Files
+# Camelot Client
+Client open source codes.
