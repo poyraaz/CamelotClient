@@ -10,14 +10,14 @@
   </tr>
   <tr>
     <td>Cosmetics</td>
-    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/cosmetics">GO</a></td>
+    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/cosmetics">🔗</a></td>
   </tr>
   <tr>
     <td>Mob Manager</td>
-    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/mobs">GO</a></td>
+    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/mobs">🔗</a></td>
   </tr>
   <tr>
     <td>Item Manager</td>
-    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/items">GO</a></td>
+    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/items">🔗</a></td>
   </tr>
 </table>
