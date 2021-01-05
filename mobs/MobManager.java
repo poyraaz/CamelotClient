@@ -2,7 +2,7 @@ package yourclient.mob;
 
 public class MobManager {
 
-  MobManager() {
+  public MobManager() {
     System.out.println("Running..");
   }
 
