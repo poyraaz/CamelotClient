@@ -15,4 +15,8 @@
     <td>Mob Manager</td>
     <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/mobs">GO</a></td>
   </tr>
+  <tr>
+    <td>Item Manager</td>
+    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/items">GO</a></td>
+  </tr>
 </table>
