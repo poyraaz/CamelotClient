@@ -1,11 +1,10 @@
-<center><img src="https://i.ibb.co/crBPKCT/logo.png"></center>
+<p align="center"><img src="https://i.ibb.co/crBPKCT/logo.png"></p>
 
-<h4>Client open source codes.</h4>
+<h4 align="center">Client open source codes.</h4>
 
-
-<table>
+<table align="center">
   <tr>
-    <th>Code</th>
+    <th width="400px">Code</th>
     <th>Link</th>
   </tr>
   <tr>
