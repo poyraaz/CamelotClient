@@ -1,4 +1,14 @@
 # Camelot Client
 Client open source codes.
 
-Discord: leyons#0653
+
+<table>
+  <tr>
+    <th>Code</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Cosmetics</td>
+    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/cosmetics">GO</a></td>
+  </tr>
+</table>
