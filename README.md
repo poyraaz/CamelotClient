@@ -13,6 +13,6 @@ Client open source codes.
   </tr>
   <tr>
     <td>Mob Manager</td>
-    <td><a href="  https://github.com/zPoyraz/CamelotClient/tree/main/mobs">GO</a></td>
+    <td><a href="https://github.com/zPoyraz/CamelotClient/tree/main/mobs">GO</a></td>
   </tr>
 </table>
