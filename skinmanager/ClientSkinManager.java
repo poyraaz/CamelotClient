@@ -34,7 +34,7 @@ public class ClientSkinManager {
 			}
 			try {
 				if(skinJson.has(gameprofile.getName())) {
-					skinMap.put(Type.CAPE, new MinecraftProfileTexture(skinJson.get(gameprofile.getName()).getAsString(), null));
+					skinMap.put(Type.SKIN, new MinecraftProfileTexture(skinJson.get(gameprofile.getName()).getAsString(), null));
 				}
 			}catch(Exception e) {
 				e.printStackTrace();
