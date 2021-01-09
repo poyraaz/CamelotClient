@@ -8,6 +8,15 @@
       "wings": true,
       "hat": true
     }
+  },
+  "clientt": {
+    "skin": "https://i.ibb.co/j5Vgb8F/9293b558d696766071c2a0b0a9cb946a.png",
+    "cape": "https://i.ibb.co/4SnFqms/06a45d17541db0ee448e18c9ff2a7e9d.png",
+    "staff": false,
+    "cosmetics": {
+      "wings": false,
+      "hat": false
+    }
   }
   
 }
