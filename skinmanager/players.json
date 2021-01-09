@@ -3,19 +3,25 @@
   "leyons": {
     "skin": "https://i.ibb.co/db4NwTn/53579f6277c0114f.png",
     "cape": "https://i.ibb.co/XjKvwDx/2253486138bfaa44568269744195edf3.png",
-    "staff": true,
     "cosmetics": {
       "wings": true,
       "hat": true
+    },
+    "memberships": {
+      "staff": true,
+      "premium": true
     }
   },
-  "test": {
+  "clientplayeruix": {
     "skin": "https://i.ibb.co/j5Vgb8F/9293b558d696766071c2a0b0a9cb946a.png",
     "cape": "https://i.ibb.co/4SnFqms/06a45d17541db0ee448e18c9ff2a7e9d.png",
-    "staff": false,
     "cosmetics": {
       "wings": false,
       "hat": false
+    },
+    "memberships": {
+      "staff": false,
+      "premium": true
     }
   }
   
