@@ -13,7 +13,7 @@
     }
   },
   "YTempest": {
-    "skin": "https://i.ibb.co/1vbHtB7/ytempest.png",
+    "skin": "https://i.ibb.co/q0SGMpK/ytempest.png",
     "cape": "https://i.ibb.co/RhPD6D9/b0a6b85bf6ff0ae72dffb3c091d3ddb7.png",
     "cosmetics": {
       "wings": false,
@@ -25,8 +25,12 @@
     }
   },
   "AhmetOffensive1": {
-    "skin": "https://i.ibb.co/VWGpRQc/ahmetoffensive1.png",
+    "skin": "https://i.ibb.co/Q6sfbNZ/ahmetoffensive1.png",
     "cape": "https://i.ibb.co/h8xwHZ1/df9a18cc9af2984fcce0e7ba8a3ad6b6.png"
+  },
+  "metquin": {
+    "skin": "https://i.ibb.co/xzM56dx/metquin.png",
+    "cape": "https://i.ibb.co/MRGv13R/6cd9739d02905caa420825d24973f28a5cc546924f02b2b2ce462c6599840f0b.png"
   }
   
 }
